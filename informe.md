@@ -15,7 +15,13 @@
 ¿Cómo generas confianza al vender?
 ¿Qué problemas has tenido con la trazabilidad o calidad del material?
 ¿Has perdido ventas por falta de confianza del cliente?
-
+### preguntas para usuario normal
+¿Con qué frecuencia compras joyas?
+¿Qué factores consideras al comprar (precio, marca, material, etc.)?
+¿Te preocupa si una joya es auténtica?
+¿Cómo sabes si una joya es real?
+¿Te importa el origen del producto (si es ético o no)?
+¿Pagarías más por una joya certificada como ética?
 
 
 
