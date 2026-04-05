@@ -6,7 +6,15 @@
 
 
 #### Sub subtitulo AAAAAAAAAAA
-### joyeria
+### preguntas para joyeria
+¿Cómo verificas la autenticidad de las joyas que vendes?
+¿Has tenido problemas con proveedores o materiales falsos?
+¿Qué tan importante es para tus clientes saber el origen de una joya?
+¿Llevas algún registro del origen de tus productos?
+¿Tus clientes te piden certificación o pruebas de autenticidad?
+¿Cómo generas confianza al vender?
+¿Qué problemas has tenido con la trazabilidad o calidad del material?
+¿Has perdido ventas por falta de confianza del cliente?
 
 
 
